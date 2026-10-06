@@ -1,12 +1,12 @@
-# Privacy Policy — Last Pride Standing: Tower Defense
+# Privacy Policy — Last Pride Standing : Tower Defence
 
 **Effective date:** October 5, 2026
 
-> **Summary:** Last Pride Standing: Tower Defense is an offline game. Any player account you create in the game exists only on your device. The game does not collect, sell, or transmit personal information to the developer or to anyone else.
+> **Summary:** Last Pride Standing : Tower Defence is an offline game. Any player account you create in the game exists only on your device. The game does not collect, sell, or transmit personal information to the developer or to anyone else.
 
 ## 1. About this privacy policy
 
-This privacy policy explains how information is handled when you use **Last Pride Standing: Tower Defense** (the "Game"), published by **rakkarajput** ("we", "us", or "our").
+This privacy policy explains how information is handled when you use **Last Pride Standing : Tower Defence** (the "Game"), published by **rakkarajput** ("we", "us", or "our").
 
 ## 2. Information we collect
 
@@ -58,7 +58,7 @@ We may update this privacy policy when the Game, its features, or its informatio
 
 ## 11. Contact us
 
-If you have questions about this privacy policy or the privacy practices of Last Pride Standing: Tower Defense, contact:
+If you have questions about this privacy policy or the privacy practices of Last Pride Standing : Tower Defence, contact:
 
 - **Publisher:** rakkarajput
 - **Email:** [rakkarajput@gmail.com](mailto:rakkarajput@gmail.com)
@@ -66,4 +66,4 @@ If you have questions about this privacy policy or the privacy practices of Last
 
 ---
 
-Last Pride Standing: Tower Defense — Copyright © 2026 Rakesh Kumar. All rights reserved.
+Last Pride Standing : Tower Defence — Copyright © 2026 Rakesh Kumar. All rights reserved.
