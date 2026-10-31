@@ -19,8 +19,7 @@
 ```csharp
 public sealed class RakeshKumar : SeniorEngineer
 {
-    public string   Company    => "🛡️ ZARQEV TECHNOLOGIES";
-    public string   Motto      => "Intelligence Innovation Beyond Limits";
+    public string   Role       => "Senior .NET Full-Stack Engineer";
     public int      Experience => 8; // years and counting
 
     public string[] Core       => [ "C#", "ASP.NET Core", "Web API", "Blazor", ".NET MAUI", "EF Core", "SignalR" ];
@@ -68,7 +67,7 @@ public sealed class RakeshKumar : SeniorEngineer
 
 ## 🆕 Recent Projects
 
-> Built in 2026 under **🛡️ ZARQEV TECHNOLOGIES** — every one offline-capable and secured with AES-256.
+> Built in 2026 — every one offline-capable and secured with AES-256.
 
 | | Project | What it is | Stack |
 |:-:|---|---|---|
@@ -146,6 +145,6 @@ I'm open to collaborating on **complex architecture, enterprise .NET, offline AI
 
 <sub>© 2022–2026 Rakesh Kumar &lt;rakkarajput@gmail.com&gt;. All rights reserved. My project repositories are **proprietary** — see each repo's LICENSE; viewing is not permission to reuse.</sub>
 
-<img src="./assets/footer.svg" alt="ZARQEV TECHNOLOGIES" width="100%"/>
+<img src="./assets/footer.svg" alt="Footer" width="100%"/>
 
 </div>
