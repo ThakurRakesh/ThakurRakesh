@@ -35,16 +35,19 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
 
-      - name: Collect 3D charts
+      - name: Collect graphs
+        # dist/ is created by the snake container as root, so gather into a fresh folder
         run: |
-          mkdir -p dist/3d
-          cp profile-3d-contrib/*.svg dist/3d/
+          mkdir -p site/3d
+          cp dist/*.svg site/
+          cp profile-3d-contrib/*.svg site/3d/
+          ls -R site
 
       - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v5
         with:
           target_branch: output
-          build_dir: dist
+          build_dir: site
           keep_history: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
