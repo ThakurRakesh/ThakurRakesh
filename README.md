@@ -83,7 +83,7 @@ public sealed class RakeshKumar : SeniorEngineer
 
 | | Title | Highlights | Platforms |
 |:-:|---|---|---|
-| 🏰 | **[Last Pride Standing : Tower Defence](https://github.com/ThakurRakesh/last-pride-standing)** | Endless offline tower defence — on its way to the **Microsoft Store** | Windows |
+| 🏰 | **[Last Pride Standing : Tower Defence](https://github.com/ThakurRakesh/last-pride-standing)** | Endless offline tower defence — **live on the Microsoft Store** | Windows |
 | ♟️ | **[Rook & Roast](https://github.com/ThakurRakesh/RookAndRoast)** | Self-learning, always-hard chess AI that roasts you | Windows · Android · iOS |
 | 🏎️ | **[Redline Rush](https://github.com/ThakurRakesh/RedlineRush)** | Arcade racing | MonoGame — Win · Android · iOS |
 | 💀 | **[BoneCaller](https://github.com/ThakurRakesh/BoneCaller)** | Necromancer action game | Windows · Android |
@@ -104,7 +104,7 @@ public sealed class RakeshKumar : SeniorEngineer
 
 </div>
 
-- 🏪 **Microsoft Store publisher** — *Last Pride Standing : Tower Defence* submitted under publisher **rakkarajput**
+- 🏪 **Published on the Microsoft Store** — *Last Pride Standing : Tower Defence* is live under publisher **rakkarajput**
 - 🏥 Delivered **healthcare & nursing-management** systems and large **ERP / CRM / SaaS** platforms end-to-end
 - 🏦 Worked on **banking & financial-services** projects, including enterprise work for a global bank
 - 🔐 Standardised a **security-first blueprint** across all products: AES-256-GCM secrets, signed binaries, anti-tamper integrity checks
