@@ -78,6 +78,7 @@ public sealed class RakeshKumar : SeniorEngineer
 | 🏠 | **[Design Studio 3D](https://github.com/ThakurRakesh/InteriorDesign)** | Interior / exterior 3D design with an on-device AI assistant | .NET MAUI · Local LLM |
 | 🧾 | **[Kirana Ledger](https://github.com/ThakurRakesh/kiranaLedger)** | Multi-tenant SaaS for Indian general stores — GST billing, stock & udhar | Blazor · MudBlazor · MAUI |
 | ⚒️ | **[LLM Forge](https://github.com/ThakurRakesh/LocalLLMForge)** | Run & fine-tune local LLMs on Android / Windows | .NET MAUI |
+| 🧪 | **Offline Local AI Trainer** | Discover & test Ollama models, manage datasets, orchestrate LoRA / QLoRA training | .NET 10 · Blazor Hybrid · MAUI · Python |
 
 ## 🎮 Games & Apps
 
@@ -87,6 +88,7 @@ public sealed class RakeshKumar : SeniorEngineer
 | ♟️ | **[Rook & Roast](https://github.com/ThakurRakesh/RookAndRoast)** | Self-learning, always-hard chess AI that roasts you | Windows · Android · iOS |
 | 🏎️ | **[Redline Rush](https://github.com/ThakurRakesh/RedlineRush)** | Arcade racing | MonoGame — Win · Android · iOS |
 | 💀 | **[BoneCaller](https://github.com/ThakurRakesh/BoneCaller)** | Necromancer action game | Windows · Android |
+| ⚔️ | **Card Hero Battle** | Competitive hero card battler — 2P/4P ratings, LAN & online, server-authoritative matches | Stride · .NET 10 · ASP.NET Core |
 | 🃏 | **Royal Sweep: Seep Card Game** | Classic Indian Seep — vs AI, pass-and-play, LAN & room-code online | .NET 10 MAUI |
 | 🕉️ | **[MyPanditG](https://github.com/ThakurRakesh/pothi)** | Offline panchang, kundali, matching & puja vidhi | Android · Windows |
 | ☢️ | **[Doomsday](https://github.com/ThakurRakesh/Doomsday)** | Offline survival handbook app | Android · Windows |
@@ -98,7 +100,7 @@ public sealed class RakeshKumar : SeniorEngineer
 
 <div align="center">
 
-| 🗓️ **8+ yrs** | 👥 **Team Lead** | 🏭 **10+ industries** | 🚀 **14+ products** |
+| 🗓️ **8+ yrs** | 👥 **Team Lead** | 🏭 **10+ industries** | 🚀 **16+ products** |
 |:-:|:-:|:-:|:-:|
 | Enterprise .NET delivery | Led & managed dev teams | ERP · Healthcare · Banking · Pharma · Retail … | Apps & games built in 2026 |
 
