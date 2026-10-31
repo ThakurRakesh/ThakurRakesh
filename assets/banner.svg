@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Rakesh Kumar — .NET Full-Stack Engineer · ZARQEV TECHNOLOGIES">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b1020"/>
+      <stop offset="55%" stop-color="#131a3a"/>
+      <stop offset="100%" stop-color="#1e1145"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#7c5cff">
+        <animate attributeName="stop-color" values="#7c5cff;#22d3ee;#7c5cff" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#22d3ee">
+        <animate attributeName="stop-color" values="#22d3ee;#a78bfa;#22d3ee" dur="8s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <radialGradient id="glow1" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0%" stop-color="#7c5cff" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#7c5cff" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0%" stop-color="#22d3ee" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#22d3ee" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.045" stroke-width="1"/>
+    </pattern>
+    <clipPath id="clip"><rect width="1200" height="320" rx="22"/></clipPath>
+    <style>
+      .t { font-family: 'Segoe UI', 'Inter', -apple-system, Helvetica, Arial, sans-serif; }
+      .m { font-family: 'Cascadia Code', 'JetBrains Mono', Consolas, 'Courier New', monospace; }
+      .fade1 { animation: fadeUp 1s ease-out .2s backwards; }
+      .fade2 { animation: fadeUp 1s ease-out .6s backwards; }
+      .fade3 { animation: fadeUp 1s ease-out 1s backwards; }
+      .fade4 { animation: fadeUp 1s ease-out 1.4s backwards; }
+      @keyframes fadeUp { from { opacity: 0; transform: translateY(12px); } to { opacity: 1; transform: translateY(0); } }
+      .pulse { animation: pulse 3s ease-in-out infinite; transform-origin: center; transform-box: fill-box; }
+      @keyframes pulse { 0%,100% { opacity: .35; } 50% { opacity: 1; } }
+      .cursor { animation: blink 1s steps(1) infinite; }
+      @keyframes blink { 50% { opacity: 0; } }
+      .drift { animation: drift 14s ease-in-out infinite alternate; }
+      @keyframes drift { from { transform: translate(0,0); } to { transform: translate(-60px,25px); } }
+    </style>
+  </defs>
+
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="320" fill="url(#bg)"/>
+    <rect width="1200" height="320" fill="url(#grid)"/>
+    <g class="drift">
+      <circle cx="980" cy="70" r="230" fill="url(#glow1)"/>
+      <circle cx="220" cy="300" r="200" fill="url(#glow2)"/>
+    </g>
+
+    <!-- circuit traces on the right -->
+    <g fill="none" stroke="url(#accent)" stroke-width="1.6" stroke-linecap="round" opacity="0.7">
+      <path d="M1200 70 H1060 L1030 100 H930" stroke-dasharray="6 10">
+        <animate attributeName="stroke-dashoffset" from="0" to="-160" dur="4s" repeatCount="indefinite"/>
+      </path>
+      <path d="M1200 160 H1100 L1070 190 H980 L960 210 H900" stroke-dasharray="6 10">
+        <animate attributeName="stroke-dashoffset" from="0" to="-160" dur="5s" repeatCount="indefinite"/>
+      </path>
+      <path d="M1200 250 H1120 L1090 220 H1010" stroke-dasharray="6 10">
+        <animate attributeName="stroke-dashoffset" from="0" to="-160" dur="3.5s" repeatCount="indefinite"/>
+      </path>
+    </g>
+    <g fill="#22d3ee">
+      <circle class="pulse" cx="930" cy="100" r="4"/>
+      <circle class="pulse" cx="900" cy="210" r="4" style="animation-delay:1s"/>
+      <circle class="pulse" cx="1010" cy="220" r="4" style="animation-delay:2s"/>
+    </g>
+
+    <!-- shield emblem -->
+    <g transform="translate(980,108)" opacity="0.9">
+      <path d="M60 0 L118 22 V70 C118 112 92 138 60 152 C28 138 2 112 2 70 V22 Z" fill="#0b1020" fill-opacity="0.55" stroke="url(#accent)" stroke-width="2.5"/>
+      <text x="60" y="94" text-anchor="middle" class="m" font-size="44" font-weight="700" fill="url(#accent)">C#</text>
+    </g>
+
+    <!-- text block -->
+    <g class="fade1">
+      <text x="64" y="74" class="m" font-size="16" fill="#8b9bd8" letter-spacing="1.5">&gt; hello_world --from ThakurRakesh<tspan class="cursor" fill="#22d3ee">▌</tspan></text>
+    </g>
+    <g class="fade2">
+      <text x="62" y="146" class="t" font-size="64" font-weight="800" fill="#ffffff" letter-spacing="-1">Rakesh Kumar</text>
+    </g>
+    <g class="fade3">
+      <rect x="64" y="166" width="120" height="4" rx="2" fill="url(#accent)"/>
+      <text x="64" y="208" class="t" font-size="24" font-weight="600" fill="url(#accent)">Senior .NET Full-Stack Engineer · AI &amp; Offline-First Apps</text>
+    </g>
+    <g class="fade4">
+      <text x="64" y="252" class="t" font-size="17" fill="#c7cdf0">🛡️ ZARQEV TECHNOLOGIES  —  Intelligence Innovation Beyond Limits</text>
+      <text x="64" y="282" class="m" font-size="14" fill="#7d86b8">C# · ASP.NET Core · Blazor · .NET MAUI · Azure · SQL · MongoDB · React · Local LLMs</text>
+    </g>
+  </g>
+</svg>
